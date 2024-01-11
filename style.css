@@ -1,0 +1,44 @@
+html{
+    background-color: rgba(27, 37, 3, 0.678);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.myname{
+    color: rgb(255, 255, 255);
+}
+.hello{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xxx-large;   
+}
+.intro{
+    color: white;
+}
+.intro2{
+    color: blanchedalmond;
+}
+.intro3{
+    color: rgba(46, 3, 3, 0.733);
+}
+.education{
+    color: antiquewhite;
+}
+.edulist{
+    color: antiquewhite;
+}
+.workexp{
+    color: white;
+}
+.workexplist{
+    color: white;
+}
+.skillsandprof{
+    color: rgba(46, 3, 3, 0.733);
+}
+.skillsandproflist{
+    color: rgba(46, 3, 3, 0.733);
+}
+.hobbies{
+    color: blanchedalmond;
+}
+.hobbylist{
+    color: blanchedalmond;
+}
